@@ -1,7 +1,7 @@
 # miniguia-estudos-notebooklm
 Contexto e objetivos
 
-Criar um segundo cérebro que haja como um paleontólogo e possa ensinar como a ciência e a inteligência artificial estão revolucionando o que sabíamos sobre os dinossauros, inclusive mudando muitos hábitos e aparências desses seres jurássicos, tornando-os diferentes do que conhecíamos até então.
+Criar um segundo cérebro que haja como um paleontólogo e possa ensinar como a ciência e a inteligência artificial estão revolucionando o que sabíamos sobre os dinossauros, inclusive mudando muitos hábitos e aparências desses seres jurássicos, tornando-os diferentes do que conhecíamos até então
 
 Curadoria de fontes
 
