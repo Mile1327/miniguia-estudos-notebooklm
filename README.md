@@ -23,3 +23,4 @@ Como a tecnologia recria os sons emitidos pelos dinossauros?
 Resultado final
 
 Miniguia de estudo
+https://notebooklm.google.com/notebook/3d1e13c7-5c11-4337-998d-c99ec460c3bb
