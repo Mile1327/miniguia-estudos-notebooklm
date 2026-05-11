@@ -12,6 +12,16 @@ https://br.pardaltech.com/2024/11/27/tecnologia-recria-sons-de-dinossauros-extin
 Engenharia de prompts e "cicatrizes"
 
 Exclusão de fontes não confiáveis, como Wikipédia. Prompts diretos e objetivos para extrair a melhor resposta da IA.
+Foram utilizadas perguntas estratégicas como: 
+
+Como a inteligência artificial ajuda a identificar e reconstruir fósseis?
+
+Quais são os riscos de subjetividade na reconstrução digital?
+
+Como o rigor científico extremo pode mitigar esses riscos?
+
+Como a tecnologia recria os sons emitidos pelos dinossauros?
+
 
 Resultado
 
