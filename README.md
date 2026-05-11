@@ -13,4 +13,5 @@ Engenharia de prompts e "cicatrizes"
 
 Exclusão de fontes não confiáveis, como Wikipédia. Prompts diretos e objetivos para extrair a melhor resposta da IA.
 
+Resultado
 Miniguia de estudo
